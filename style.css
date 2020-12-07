@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(#FF0000 0%, #ff9100 10%, #FFD900 20%, #fffb00 30%, #1EFF00 40%, 
+    #0bd87f 50%, #00fff2 60%, #00eaff 70%, #2B00FF 80%, #D400FF 90%, #AD31A7 100%);
+    font-size: 30px;
+    text-align: center;
+}
+.inputs
+{
+color: black;
+font-weight: bold;
+}
+button
+{
+background-color: yellow;
+border-color: red;
+border-width: 3px;
+border-style: solid;
+border-radius: 20px;
+color: black;
+}
